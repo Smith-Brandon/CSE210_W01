@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ponder_Prove_W01/1.0.0": {
+        "runtime": {
+          "Ponder_Prove_W01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ponder_Prove_W01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.exe
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.deps.json
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.runtimeconfig.json
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.dll
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.pdb
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.csproj.AssemblyReference.cache
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.AssemblyInfoInputs.cache
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.AssemblyInfo.cs
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.csproj.CoreCompileInputs.cache
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.dll
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\refint\Ponder_Prove_W01.dll
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.pdb
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.genruntimeconfig.cache
+C:\Users\mormo\source\repos\Ponder and Prove W01\Ponder and Prove W01\obj\Debug\net6.0\ref\Ponder_Prove_W01.dll
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.exe
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.deps.json
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.runtimeconfig.json
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.dll
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\bin\Debug\net6.0\Ponder_Prove_W01.pdb
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.csproj.AssemblyReference.cache
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.AssemblyInfoInputs.cache
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.AssemblyInfo.cs
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.csproj.CoreCompileInputs.cache
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.dll
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\refint\Ponder_Prove_W01.dll
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.pdb
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\Ponder_Prove_W01.genruntimeconfig.cache
+D:\repos\CSE210\CSE210_W01\Ponder and Prove W01\obj\Debug\net6.0\ref\Ponder_Prove_W01.dll
